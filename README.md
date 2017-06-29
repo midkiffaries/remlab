@@ -1,4 +1,4 @@
-# REMLAB Web Mech Designer
+# REMLAB Web Mech Designer (2.9.x)
 
 This is the initial move of REMLAB from SourceForge.net to GitHub.
 
