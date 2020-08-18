@@ -2,4 +2,4 @@
 
 This is the initial move of REMLAB from SourceForge.net to GitHub.
 
-This version of REMLAB is no longer maintained since 2009.
+This is an archival version of REMLAB, developed from 2005 to 2009.  It is no longer maintained.
